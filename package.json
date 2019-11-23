@@ -17,7 +17,7 @@
   "dependencies": {
     "github": "0.1.15",
     "commander": "2.2.0",
-    "handlebars": "4.0.5",
+    "handlebars": "4.5.3",
     "async": "0.6.2"
   },
   "bin": {
